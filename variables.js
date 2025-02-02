@@ -1,7 +1,8 @@
+
 //MALA PRACTICA
 var personal = {
-    nombres: "Juan"
-    , apellidos: "Vera"
+    nombres: "Juan Arnaldo"
+    , apellidos: "Vera Gonzalez"
     , anhos: 164
 };
 
