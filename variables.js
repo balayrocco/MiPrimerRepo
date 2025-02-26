@@ -10,7 +10,7 @@ var personal = {
 let nombres = "Francisco Solano El Pollo Lopez"
 
 // constantes
-const nocambia = false;
+const nocambia = f   alse;
 let costo_presupuesto = 63;
 
 console.log(typeof(personal), personal);
